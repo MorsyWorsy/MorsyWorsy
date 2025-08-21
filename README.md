@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 Skills
-- **Lua** (Roblox scripting)
+- **Lua** (Roblox Studio/Visual Studio Code)
 - **SFX** (FL Studio)
 
 ---
