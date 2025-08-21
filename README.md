@@ -13,7 +13,7 @@
 ## 🕹️ Past Work
 
 -  [ZEN](https://www.roblox.com/games/15926000656/ZEN)  
-  *Built & improved important systems such as admin/command system, shop & inventory, and weapons module.*
+  *Built & improved important systems such as admin/command system, shop/inventory, and weapons module.*
 
 -  [JJS Inspired Battlegrounds/Destruction System](https://streamable.com/fo6gzl)  
   *A little video showcase.*
