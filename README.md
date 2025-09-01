@@ -17,7 +17,7 @@
 
 ## 🕹️ Past Work
 
--  [ZEN](https://www.roblox.com/games/15926000656/ZEN)  
+-  [ZEN禅](https://www.roblox.com/games/15926000656/ZEN)  
   *Built & improved important systems such as admin/command system, shop/inventory, and weapons module.*
 
 - [ZO by Voldex](https://www.roblox.com/games/6678877691/ZO-SAMURAI-SWORD-FIGHTING)  
