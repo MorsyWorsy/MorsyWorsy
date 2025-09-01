@@ -15,11 +15,11 @@
 -  [ZEN](https://www.roblox.com/games/15926000656/ZEN)  
   *Built & improved important systems such as admin/command system, shop/inventory, and weapons module.*
 
--  JJS Inspired [Battlegrounds](https://streamable.com/erms7s) and [Destruction](https://streamable.com/fo6gzl) System
+- JJS Inspired [Battlegrounds](https://streamable.com/erms7s) and [Destruction](https://streamable.com/fo6gzl) System  
   *A little video showcase.*
 
--  [Blue Lock Rivals Inspired Style Rolling System](https://streamable.com/11zawu)
-  *A system where you can roll your style with using your spins.*
+- [Blue Lock Rivals-Inspired Style Rolling System](https://streamable.com/11zawu)  
+  *A system where you can roll your style using spins.*
 
 ---
 
