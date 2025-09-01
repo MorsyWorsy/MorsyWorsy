@@ -20,10 +20,10 @@
 -  [ZEN](https://www.roblox.com/games/15926000656/ZEN)  
   *Built & improved important systems such as admin/command system, shop/inventory, and weapons module.*
 
-- [ZO by Voldex](https://www.roblox.com/games/6678877691/ZO-SAMURAI-SWORD-FIGHTING)
+- [ZO by Voldex](https://www.roblox.com/games/6678877691/ZO-SAMURAI-SWORD-FIGHTING)  
   *Created 2D icon, SFX, and animation for the Body Pillow weapon; designed 2D icons for the Ban Hammer and Kuraokami.*
 
-- [Super Monkey](https://www.roblox.com/games/9456828952/Super-Monkey-BETA)
+- [Super Monkey](https://www.roblox.com/games/9456828952/Super-Monkey-BETA)  
   *Made every SFX in the game.*
 
 - JJS Inspired [Battlegrounds](https://streamable.com/erms7s) and [Destruction](https://streamable.com/fo6gzl) System  
