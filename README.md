@@ -19,7 +19,7 @@
   *A little video showcase.*
 
 -  [Blue Lock Rivals Inspired Style Rolling System](https://streamable.com/11zawu)
-  *A little video showcase.*
+  *A system where you can roll your style with using your spins.*
 
 ---
 
