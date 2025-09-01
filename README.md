@@ -15,10 +15,11 @@
 -  [ZEN](https://www.roblox.com/games/15926000656/ZEN)  
   *Built & improved important systems such as admin/command system, shop/inventory, and weapons module.*
 
--  [JJS Inspired Battlegrounds/Destruction System](https://streamable.com/fo6gzl)  
+-  JJS Inspired [Battlegrounds](https://streamable.com/erms7s) and [Destruction](https://streamable.com/fo6gzl) System
   *A little video showcase.*
 
-- **More examples of my work are available on request**
+-  [Blue Lock Rivals Inspired Style Rolling System](https://streamable.com/11zawu)
+  *A little video showcase.*
 
 ---
 
