@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 -  He/Him
--  18 years old
+-  19 years old
 -  Timezone: GMT+3
 -  Roblox scripter since **2021**
 
