@@ -15,9 +15,9 @@
 
 - [Battle Waves](https://www.roblox.com/games/88761037921889/Battle-Waves) Owner & Lead Developer
 
-- [The Sail] worked as a Scripter
+- [The Sail](https://www.roblox.com) worked as a Scripter
 
-- [Star Strikers - Unico] Lead Developer
+- [Star Strikers - Unico](https://www.roblox.com) Lead Developer
 
 - [Chainsaw Shenanigans Rework](https://www.roblox.com/games/98219881011942/Chainsaw-Shenanigans-Rewrite) Lead Developer
 
