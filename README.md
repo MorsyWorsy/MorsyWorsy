@@ -1,15 +1,11 @@
-# me
+# Morsy
 
 -  19 years old
 -  Timezone: GMT+3
 -  Roblox scripter since **2021**
 
----
-
 ## Skills
 - **Lua** (Roblox Studio/Visual Studio Code)
-
----
 
 ## Portfolio
 
@@ -26,8 +22,6 @@
 
 - [Super Monkey](https://www.roblox.com/games/9456828952/Super-Monkey-BETA)  
   *Made every SFX in the game.*
-
----
 
 ## Contact
 - Roblox: [My Profile](https://www.roblox.com/users/2808002853/profile)
