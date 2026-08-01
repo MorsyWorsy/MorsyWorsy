@@ -1,4 +1,4 @@
-# 👋 Hi there
+# me
 
 -  19 years old
 -  Timezone: GMT+3
